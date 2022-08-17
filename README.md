@@ -65,10 +65,10 @@ export --missing
 export --counts
 ```
 
-Result totals as of 2022-08-01:
+Result totals as of 2022-08-17:
 
 ```
-Completed pages: 8115, Failed pages: 0, Total Signatures: 810744
+Completed pages: 8115, Failed pages: 0, Total Signatures: 811193
 ```
 
 ## TODO
